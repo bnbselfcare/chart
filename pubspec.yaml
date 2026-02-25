@@ -5,7 +5,7 @@ homepage: https://github.com/google/charts
 
 
 environment:
-  sdk: '>=3.0.0 <=3.9.0'
+  sdk: '>=3.0.0 <=4.0.0'
   flutter: '>=2.5.0'
 
 dependencies:
@@ -18,7 +18,7 @@ dependencies:
 
   charts_common:
     git:
-      url: https://github.com/Trojan9/chart_common.git
+      url: https://github.com/bnbselfcare/chart_common.git
       ref: main # branch name
   collection: ^1.14.5
   cupertino_icons: ^1.0.6
